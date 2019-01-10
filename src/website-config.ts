@@ -29,7 +29,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Omar''s Self Growth',
+  title: 'Omar\'s Self Growth',
   description: 'A platform where I write about my self growth journey!',
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/omar-logo.png',
