@@ -29,12 +29,12 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Omar''s Self Growth',
+  description: 'A platform where I write about my self growth journey!',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/omar-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://olmezerreg.ga',
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
